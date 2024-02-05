@@ -33,7 +33,7 @@ function Footer() {
           <PinterestIcon />
         </Link>
       </div>
-      <p>&copy; 2023 Brian Kithusi Tech</p>
+      <p>&copy; 2023 Brian Kithusi Tech Practices</p>
     </div>
   );
 }

@@ -23,6 +23,7 @@
   .cartItem .description {
     width: 100%;
     font-size: 30px;
+    
   }
   
   .countHandler input {
@@ -41,3 +42,4 @@
     margin: 10px;
     cursor: pointer;
   }
+  

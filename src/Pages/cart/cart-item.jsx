@@ -5,6 +5,7 @@ export default function CartItem(props) {
   const { cartItems, removeFromCart, addToCart, updateCartItemCount } =
     useContext(ShopContext);
   const { id, producName, price, productImage } = props.data;
+
   return (
     <div className="cartItem">
       <img src={productImage} alt="picha ya kitu umechagua" />
